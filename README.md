@@ -1,2 +1,2 @@
 # Instagram Lookbook
-Scroll through intagram profiles and find style inspiration.
+Scroll through instagram profiles and find style inspiration.
